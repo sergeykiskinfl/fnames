@@ -1,0 +1,10 @@
+# -*- coding: utf-8 -*-
+
+BOT_NAME = 'fnames'
+SPIDER_MODULES = ['fnames.spiders']
+NEWSPIDER_MODULE = 'fnames.spiders'
+DOWNLOAD_TIMEOUT = 300
+ROBOTSTXT_OBEY = True
+CONCURRENT_REQUESTS = 2
+CONCURRENT_REQUESTS_PER_DOMAIN = 2
+
