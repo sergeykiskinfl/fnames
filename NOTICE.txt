@@ -13,4 +13,4 @@ See the License for the specific language governing permissions and
 limitations under the License.
 
 This product includes software developed at
-© Copyright 2008–2018, Scrapy developers (https://scrapy.org/).
+© Copyright 2008–2018 Scrapy developers (https://scrapy.org/).
